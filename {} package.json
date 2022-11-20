@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "readme",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinglov/README.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codinglov/README/issues"
+  },
+  "homepage": "https://github.com/codinglov/README#readme",
   "dependencies": {
-    "inquirer": "8.2.4"
+    "inquirer": "^8.0.0"
   }
 }
